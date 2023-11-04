@@ -1,0 +1,12 @@
+UseEffect= ()=>{
+
+}, [];
+
+useState [ value, setValue]= useState();
+
+Ternary operator:
+ {users ? :():()} - true, false
+
+Map funtion:
+user.slice(0,5).map((user) => ())
+

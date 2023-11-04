@@ -1,0 +1,32 @@
+/* .Social-icons{
+    display: flex;
+    margin-left: 14px;
+}
+.Social-icons i{
+    width: 32px;
+    height: 30px;
+    background: rgba(217, 217, 217, 0.11);
+    display: inline-flex;
+    margin-right: 6px;
+    border-radius: 50%;
+    align-items: center;
+    line-height: 1;
+    border: 1px solid rgba(255,255,255,0.5);
+}
+.Social-icons i::before{
+    content: "";
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    background-color: aliceblue;
+    border-radius: 50%;
+    transform: scale(0);
+    transition: 0.5s ease-in-out;
+}
+.Social-icons i:hover::before{
+    transform: scale(1);
+} */
+Footer{
+    background-color: rgb(12, 11, 10) !important;
+    color: rgb(231, 208, 208) !important;
+}

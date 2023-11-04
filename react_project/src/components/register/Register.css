@@ -1,0 +1,53 @@
+
+body{
+    /* background-image: url(../Images/bc.jpg); */
+    background-size: cover;
+  
+}
+
+
+
+
+/* .card-body{
+    justify-content: center;
+    align-items: center;
+ 
+} */
+.form-group{
+    justify-content: center;
+    align-items: center;
+}
+/* .card-body{
+    width: 800px;
+} */
+/* .i{
+    margin-left: 290px;
+} */
+.heading{
+    text-align: center;
+}
+.inputs{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height: 57px;
+    background: #eaeaee;
+    border-radius: 6px;
+}
+
+.input input{
+    height: 30px;
+    width: 200px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #dabfbf;
+    font-size: 19px;
+}
